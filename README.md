@@ -6,7 +6,8 @@ The Counter counts from 0 to 255, does not take negative values or values greate
 
 
 
-![image](https://user-images.githubusercontent.com/67234862/112509391-1793b180-8d99-11eb-9261-a226077c85ae.png)
+![image](https://user-images.githubusercontent.com/67234862/112509944-a1dc1580-8d99-11eb-9a26-0b889e7b6bfd.png)
+
 
 
 ------Finite State Machine (FSM)------
