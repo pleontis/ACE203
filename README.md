@@ -2,6 +2,7 @@
 Project done in VHDL for course at ECE TUC
 
 ------Counter------
+
 The Counter counts from 0 to 255, does not take negative values or values greater than 255. If it takes values outside the range [0,255] then it turns on the output signal (Overflow, Underflow) and freezes its operation until RST and valid output becomes 0
 
 
