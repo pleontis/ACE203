@@ -14,10 +14,15 @@ Input  Add/Sub
 7      12
 
 ------Finite State Machine (FSM)------
+
+
+
 ![image](https://user-images.githubusercontent.com/67234862/112506513-83c0e600-8d96-11eb-9927-df41a6511e28.png)
 
 
---Memory
+
+-----Memory------
+
 The circuit will have 4-bit memory and a depth of 12 memory slots. The stack will function with proper control as a stack of 10 items. Each number in the input will be stored
 in the stack when the Push key is pressed. Each time the Pop key is pressed, the number on the head of the stack is deleted. The NumberOUT output of the stack will be the stack
 head unless it is empty then it will be the 0 position of the memory. When the stack is empty the Empty output will light up and every time it is full, ie it has 10 items, the
