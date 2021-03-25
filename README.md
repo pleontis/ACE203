@@ -3,15 +3,11 @@ Project done in VHDL for course at ECE TUC
 
 ------Counter------
 The Counter counts from 0 to 255, does not take negative values or values greater than 255. If it takes values outside the range [0,255] then it turns on the output signal (Overflow, Underflow) and freezes its operation until RST and valid output becomes 0
-Input  Add/Sub
-0     -5
-1     -2
-2      0
-3      1
-4      2
-5      5
-6      6
-7      12
+
+
+
+![image](https://user-images.githubusercontent.com/67234862/112509391-1793b180-8d99-11eb-9261-a226077c85ae.png)
+
 
 ------Finite State Machine (FSM)------
 
